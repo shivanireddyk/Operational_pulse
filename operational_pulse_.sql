@@ -1,8 +1,3 @@
--- ========================================
--- OPERATIONAL PULSE: CLEAN SQL SCRIPT
--- Pure ASCII - No Special Characters
--- ========================================
-
 -- Step 1: Create Database
 DROP DATABASE IF EXISTS operational_pulse;
 CREATE DATABASE operational_pulse;
